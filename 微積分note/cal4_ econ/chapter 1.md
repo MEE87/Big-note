@@ -23,3 +23,10 @@ A vector in vector space have [[addition property]] and [[scalar multiplication 
 
 
 任何滿足以上式子階可說是vector space
+
+[[判斷向量空間]]
+判斷一個子集是否為空集合分三步
+1. find non-0 vector
+2. closed in addition
+3. closed in scalar multiplication
+
