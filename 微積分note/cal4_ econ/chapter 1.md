@@ -30,3 +30,5 @@ A vector in vector space have [[addition property]] and [[scalar multiplication 
 2. closed in addition
 3. closed in scalar multiplication
 
+#### [[Linear span]]
+A vector space is spanned by multi-vector $\{{v_1,v_2,\dots ,v_m}\}\indeed m\in \mathbb{R}$
