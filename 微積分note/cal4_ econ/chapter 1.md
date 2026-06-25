@@ -34,3 +34,6 @@ A vector in vector space have [[addition property]] and [[scalar multiplication 
 A vector space is spanned by multi-vector $\{{v_1,v_2,\dots ,v_m}\}\ m\in \mathbb{R}$
 Expression$$V = \alpha_1v_1 + a_2 v_2 + \cdots + a_m v_m \quad m\in \mathbb{R} $$
 
+####  [[linear independence]]
+Sometime we will find some vector redundant in linear span. 
+We call a subset {$v_1 + v_2 + \cdots + v_m \quad m \in \mathbb{R}$}  when the only method to create 0 vector is when leading coefficient all 0.
