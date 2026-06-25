@@ -31,4 +31,6 @@ A vector in vector space have [[addition property]] and [[scalar multiplication 
 3. closed in scalar multiplication
 
 #### [[Linear span]]
-A vector space is spanned by multi-vector $\{{v_1,v_2,\dots ,v_m}\}\indeed m\in \mathbb{R}$
+A vector space is spanned by multi-vector $\{{v_1,v_2,\dots ,v_m}\}\ m\in \mathbb{R}$
+Expression$$V = \alpha_1v_1 + a_2 v_2 + \cdots + a_m v_m \quad m\in \mathbb{R} $$
+
