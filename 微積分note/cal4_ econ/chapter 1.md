@@ -37,3 +37,5 @@ Expression$$V = \alpha_1v_1 + a_2 v_2 + \cdots + a_m v_m \quad m\in \mathbb{R} $
 ####  [[linear independence]]
 Sometime we will find some vector redundant in linear span. 
 We call a subset {$v_1 + v_2 + \cdots + v_m \quad m \in \mathbb{R}$}  when the only method to create 0 vector is when leading coefficient all 0.
+
+/git:com
