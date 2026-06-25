@@ -22,4 +22,4 @@ A vector in vector space have [[addition property]] and [[scalar multiplication 
 [^1]: $\vec{v} + \vec{w} \in V$ for any  vector in V
 
 
-任何滿足以上是
+任何滿足以上式子階可說是vector space
