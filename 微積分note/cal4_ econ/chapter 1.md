@@ -38,3 +38,12 @@ Expression$$V = \alpha_1v_1 + a_2 v_2 + \cdots + a_m v_m \quad m\in \mathbb{R} $
 Sometime we will find some vector redundant in linear span. 
 We call a subset {$v_1 + v_2 + \cdots + v_m \quad m \in \mathbb{R}$}  when the only method to create 0 vector is when leading coefficient all 0.
 
+我真的不想打一堆定理 反正我複習也不會看大概有個印象就好
+我是[[印象派]]學習者 全憑記憶不讀書
+然後現在在聽打歌妹是三小？？？？？？？？？我受不了了
+我恨你youtube music 
+反正就隱含就繼續講一 些線性空間的
+喔幹... 我知道為什麼沒有離散了
+人家就叫線性== 我這那邊一直想
+還有[[蔡國榮]]好像定理就寫到1.4 我也沒有啥題目好練習的
+不像[[阿傑]]的課我都沒啥在上 自己寫題目 好爽
